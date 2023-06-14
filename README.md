@@ -22,8 +22,8 @@ I coded this site to find out how Tailwind works.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FrontEndMentor](https://www.frontendmentor.io/solutions/fylo-dark-theme-landing-page-4PVVgS87xv)
+- Live Site URL: [Github Pages](Fylo-dark-theme-landing-page)
 
 ## My process
 
