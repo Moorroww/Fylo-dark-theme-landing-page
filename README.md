@@ -23,7 +23,7 @@ I coded this site to find out how Tailwind works.
 ### Links
 
 - Solution URL: [FrontEndMentor](https://www.frontendmentor.io/solutions/fylo-dark-theme-landing-page-4PVVgS87xv)
-- Live Site URL: [Github Pages](Fylo-dark-theme-landing-page)
+- Live Site URL: [Github Pages](https://moorroww.github.io/Fylo-dark-theme-landing-page/)
 
 ## My process
 
